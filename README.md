@@ -16,3 +16,4 @@ For faster results, the project has to be built in release mode
 1. The compression level is fixed. It can be made dynamic 
 2. The output file is saved in the same directory as the input file with the filename `${input_file_name}-compressed.${extension}`
 3. Only single files can be compressed at a time. Can support batch processing.
+4. Can provide binding for NodeJS
