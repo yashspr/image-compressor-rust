@@ -1,0 +1,15 @@
+[package]
+name = "image-compressor"
+version = "0.1.0"
+authors = ["Yashas Reddy <yashas.reddy@binarynumbers.io>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mtpng = "0.3.5"
+lodepng = "3.4"
+rgb = "0.8"
+oxipng = "4.0.3"
+mozjpeg = "0.8.24"
+image = "0.23.14"
