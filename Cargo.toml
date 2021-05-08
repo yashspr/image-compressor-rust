@@ -1,7 +1,7 @@
 [package]
 name = "image-compressor"
-version = "0.1.0"
-authors = ["Yashas Reddy <yashas.reddy@binarynumbers.io>"]
+version = "0.2.0"
+authors = ["Yashas Reddy <yashspr5@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -11,5 +11,6 @@ edition = "2018"
 # lodepng = "3.4"
 # rgb = "0.8"
 oxipng = "4.0.3"
-mozjpeg = "0.8.24"
+mozjpeg = "0.9.0"
 image = "0.23.14"
+clap = "3.0.0-beta.2"
